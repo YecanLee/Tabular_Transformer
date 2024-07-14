@@ -1,0 +1,6 @@
+torch
+eniops
+numpy
+pandas
+scikit-learn
+wandb
